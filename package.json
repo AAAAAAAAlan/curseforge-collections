@@ -18,7 +18,8 @@
     "pug": "^3.0.0",
     "pug-plain-loader": "^1.1.0",
     "stylus": "^0.54.8",
-    "stylus-loader": "^4.3.3"
+    "stylus-loader": "^4.3.3",
+    "vuejs-snackbar": "^4.0.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.0.0",

@@ -9059,6 +9059,11 @@ vue@^2.6.12:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
 
+vuejs-snackbar@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/vuejs-snackbar/-/vuejs-snackbar-4.0.1.tgz#a521765b0de03dea69a3fd0438a71c49dc622fcb"
+  integrity sha512-2eSjvvn8an8JZXKKxW5y5j4aZoc/zOSuYG4T0qIO6b/uUXnu0GgWYl9VrwUtkD/FkVrDPqFazFqKrW58hC/N9g==
+
 vuex@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.6.0.tgz#95efa56a58f7607c135b053350833a09e01aa813"
