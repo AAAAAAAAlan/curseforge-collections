@@ -12,8 +12,6 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-  },
-  "devDependencies": {
     "@nuxtjs/axios": "^5.11.0",
     "nuxt": "^2.13.0",
     "object-encode": "^1.0.2",
@@ -24,7 +22,9 @@
     "vuejs-snackbar": "^4.0.1",
     "@nuxtjs/eslint-config": "^3.0.0",
     "@nuxtjs/eslint-module": "^2.0.0",
-    "@nuxtjs/tailwindcss": "^2.0.0",
+    "@nuxtjs/tailwindcss": "^2.0.0"
+  },
+  "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.2.0",
     "eslint-config-prettier": "^6.11.0",
