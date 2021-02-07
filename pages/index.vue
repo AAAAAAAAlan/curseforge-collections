@@ -84,7 +84,9 @@ export default {
         const salt = 123
         const object = this.exportIds
         const encodedString = encode.encode_object(object, 'base64', salt)
-        window.open(`http://localhost:3000/${encodedString}`)
+        window.open(
+          `https://curseforge-collections.vercel.app/${encodedString}`
+        )
       } else {
         this.$refs.snackbar.error('No mods in collection.')
       }
